@@ -1,2 +1,2 @@
 - Unzip lib.zip to ./lib folder
-- Build and run Devarchive.Net.Routing.Map
+- Read instructions about running the source code here: https://blog.devarchive.net/2013/03/fast-dijkstras-algorithm-inside-ms-sql.html
